@@ -1,6 +1,7 @@
 package de.qgct.som.common.manager;
 
 import cpw.mods.fml.common.IWorldGenerator;
+import de.qgct.som.common.block.ore.OreBlockPlatinum;
 import net.minecraft.block.Block;
 import net.minecraft.world.World;
 import net.minecraft.world.chunk.IChunkProvider;
@@ -28,6 +29,8 @@ public class OreManager implements IWorldGenerator {
     // Generate the Surface World
     private void generateSurface(World world, Random random, int x, int z) {
 
+        addOreSpawn(new OreBlockPlatinum(), world, random, x, z, 16, 128, 15, 160);
+
     }
 
     // Generate the End Dimension
@@ -50,5 +53,9 @@ public class OreManager implements IWorldGenerator {
             int posZ = blockZPos + random.nextInt(maxZ);
             (new WorldGenMinable(block, maxVeinSize)).generate(world, random, posX, posY, posZ);
         }
+    }
+
+    public void addOreSpawn(Block block, World world, Random random, int blockXPos, int blockZPos, int maxVeinSize, int chancesToSpawn, int minY, int maY) {
+        addOreSpawn(block, world, random, blockXPos, blockZPos, 16, 16, maxVeinSize, chancesToSpawn, minY, maY);
     }
 }
