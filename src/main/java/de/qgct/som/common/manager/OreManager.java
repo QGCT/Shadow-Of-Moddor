@@ -1,6 +1,7 @@
 package de.qgct.som.common.manager;
 
 import cpw.mods.fml.common.IWorldGenerator;
+import de.qgct.som.common.block.ore.OreBlockPlatinum;
 import net.minecraft.block.Block;
 import net.minecraft.world.World;
 import net.minecraft.world.chunk.IChunkProvider;
@@ -27,6 +28,8 @@ public class OreManager implements IWorldGenerator {
 
     // Generate the Surface World
     private void generateSurface(World world, Random random, int x, int z) {
+
+
 
     }
 
