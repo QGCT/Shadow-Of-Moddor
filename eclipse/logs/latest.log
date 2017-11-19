@@ -1,11 +1,63 @@
-[21:39:37] [main/INFO]: Setting user: Player367
-[21:39:40] [Client thread/INFO]: LWJGL Version: 2.9.1
-[21:39:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:shadowofmoddor
-[21:39:56] [Sound Library Loader/INFO]: Sound engine started
-[21:39:59] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[21:39:59] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[21:39:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:shadowofmoddor
-[21:40:00] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:40:00] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:40:01] [Sound Library Loader/INFO]: Sound engine started
-[21:40:32] [Client thread/INFO]: Stopping!
+[22:19:54] [main/INFO]: Setting user: Player524
+[22:19:55] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:20:03] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:shadowofmoddor
+[22:20:04] [Sound Library Loader/INFO]: Sound engine started
+[22:20:05] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[22:20:05] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[22:20:05] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:shadowofmoddor
+[22:20:05] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[22:20:06] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[22:20:06] [Sound Library Loader/INFO]: Sound engine started
+[22:20:11] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:20:11] [Server thread/INFO]: Generating keypair
+[22:20:11] [Server thread/INFO]: Preparing start region for level 0
+[22:20:12] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:20:13] [Server thread/INFO]: Player524[local:E:a81846f0] logged in with entity id 352 at (-117.9472254622639, 82.8745947025064, 206.94727044899807)
+[22:20:13] [Server thread/INFO]: Player524 joined the game
+[22:20:13] [Server thread/INFO]: Saving and pausing game...
+[22:20:13] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:20:13] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:20:13] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:20:14] [Server thread/INFO]: Saving and pausing game...
+[22:20:14] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:20:15] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:20:15] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:20:15] [Server thread/INFO]: Stopping server
+[22:20:15] [Server thread/INFO]: Saving players
+[22:20:15] [Server thread/INFO]: Saving worlds
+[22:20:15] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:20:15] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:20:15] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:20:22] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:20:22] [Server thread/INFO]: Generating keypair
+[22:20:22] [Server thread/INFO]: Converting map!
+[22:20:22] [Server thread/INFO]: Scanning folders...
+[22:20:22] [Server thread/INFO]: Total conversion count is 0
+[22:20:22] [Server thread/INFO]: Preparing start region for level 0
+[22:20:23] [Server thread/INFO]: Preparing spawn area: 20%
+[22:20:24] [Server thread/INFO]: Preparing spawn area: 46%
+[22:20:25] [Server thread/INFO]: Preparing spawn area: 68%
+[22:20:26] [Server thread/INFO]: Preparing spawn area: 91%
+[22:20:27] [Server thread/INFO]: Changing view distance to 12, from 10
+[22:20:27] [Server thread/INFO]: Player524[local:E:25b85254] logged in with entity id 679 at (-21.5, 76.0, 254.5)
+[22:20:27] [Server thread/INFO]: Player524 joined the game
+[22:20:32] [Server thread/INFO]: Saving and pausing game...
+[22:20:32] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:20:34] [Client thread/INFO]: Started on 56871
+[22:20:34] [Client thread/INFO]: [CHAT] Local game hosted on port 56871
+[22:20:34] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:20:34] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:20:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2025ms behind, skipping 40 tick(s)
+[22:20:34] [Client thread/INFO]: Warning: Clientside chunk ticking took 168 ms
+[22:20:36] [Server thread/INFO]: [Player524: Set own game mode to Creative Mode]
+[22:20:36] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[22:20:49] [Server thread/INFO]: Player524 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[22:20:49] [Server thread/INFO]: Player524 left the game
+[22:20:49] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[22:20:50] [Server thread/INFO]: Stopping server
+[22:20:50] [Server thread/INFO]: Saving players
+[22:20:50] [Server thread/INFO]: Saving worlds
+[22:20:50] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[22:20:50] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[22:20:50] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[22:20:51] [Client thread/INFO]: Stopping!
