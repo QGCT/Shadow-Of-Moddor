@@ -25,4 +25,8 @@ public class ShadowOfModdor {
     public void init(FMLInitializationEvent event) {
         GameRegistry.registerWorldGenerator(new OreManager(), 100);
     }
+
+    public static void main(String args[]) {
+
+    }
 }
