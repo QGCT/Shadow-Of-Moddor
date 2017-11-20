@@ -18,4 +18,4 @@ public class OreBlockPlatinum extends Block {
         this.setResistance(resistance);
     }
 
-}
+}    
