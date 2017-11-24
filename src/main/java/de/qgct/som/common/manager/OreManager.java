@@ -29,7 +29,7 @@ public class OreManager implements IWorldGenerator {
     // Generate the Surface World
     private void generateSurface(World world, Random random, int x, int z) {
 
-
+        addOreSpawn(new OreBlockPlatinum(), world, random, x, z, 16, 16, 16, 128, 15, 160);
 
     }
 

@@ -2,3 +2,6 @@
 Shadow-Of-Moddor.iml
 eclipse/*
 eclipse/logs/*
+.gradle/*
+out/*
+build/*

@@ -9,7 +9,7 @@ import de.qgct.som.common.manager.BlockManager;
 import de.qgct.som.common.manager.ItemManager;
 import de.qgct.som.common.manager.OreManager;
 
-@Mod(modid = ShadowOfModdor.modID, useMetadata = true)
+@Mod(modid = ShadowOfModdor.modID, name = ShadowOfModdor.modName/*, useMetadata = true*/)
 public class ShadowOfModdor {
 
     public static final String modID = "shadowofmoddor";
