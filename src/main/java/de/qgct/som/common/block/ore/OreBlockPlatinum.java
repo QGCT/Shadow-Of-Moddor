@@ -17,7 +17,7 @@ public class OreBlockPlatinum extends Block {
         super(Material.rock);
         this.setBlockName(unlocalizedName);
         this.setCreativeTab(CreativeTabs.tabBlock);
-        this.setBlockTextureName(ShadowOfModdor.modID + ":plutonium_ore");
+        this.setBlockTextureName(ShadowOfModdor.modID + ":" + unlocalizedName);
         this.setHardness(hardness);
         this.setResistance(resistance);
         this.setHarvestLevel(toolClass, toolLevel);
